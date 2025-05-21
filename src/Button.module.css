@@ -1,0 +1,7 @@
+/* module.css는 로컬 스타일 스코프를 가짐 */
+/* dom에 임의의 클래스명을 생성하여 로컬에만 적용되도록 함함 */
+
+.btn {
+    color: white;
+    background-color: tomato;
+}
